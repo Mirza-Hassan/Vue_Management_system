@@ -1,24 +1,9 @@
-# my-vue-app
+Vue Management System:
+Displays a student list with search and custom styling:
 
-## Project setup
-```
-npm install
-```
+Data: Students loaded from a JSON file.
+Search: Filters students by name.
+Styling: Custom colors for gender.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Screenshot:
+![Screenshot](https://github.com/Mirza-Hassan/Vue__Management_system/assets/17096257/e6d179d5-13e7-4b4b-afb6-873773d77080)
